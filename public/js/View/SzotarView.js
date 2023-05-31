@@ -3,7 +3,6 @@ import SzavakView from "./SzavakView.js";
 class SzotarView{
     #tema;
     constructor(szavak){
-        console.log(2);
         $(".szavakMegjelenites").html(`
         <div class="oszlopNev"><h3>ANGOL</h3><h3>MAGYAR</h3><h5>Visszajelzés</h5></div>
         <div class="szavak">    

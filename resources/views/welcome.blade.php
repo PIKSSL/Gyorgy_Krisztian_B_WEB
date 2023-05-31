@@ -30,6 +30,7 @@
                     </div>
                 </div>
             </div>
+            <h3>Pontszám: 0</h3>
         </div>
     </main>
 </body>
